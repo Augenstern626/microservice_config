@@ -23,7 +23,7 @@ spring:
 
 logging:
   level:
-    com.yc.springcloud2.microserviceprovider: debug
+    com.yc.springcloud812: debug
 
 eureka:
   client: # 客户端进行Eureka注册的配置
@@ -69,7 +69,7 @@ spring:
 
 logging:
   level:
-    com.yc.springcloud2.microserviceprovider: debug
+    com.yc.springcloud812: debug
 
 eureka:
   client: # 客户端进行Eureka注册的配置
